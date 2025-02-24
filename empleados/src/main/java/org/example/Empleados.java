@@ -3,6 +3,7 @@ package org.example;
 //amammamamae
 import java.util.Scanner;
 
+//whjbfjhfa
 public class Empleados {
     private String DNI;
     private String nombre;
