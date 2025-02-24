@@ -7,7 +7,7 @@ public class Director extends Empleados {
      Director() {
         super();
     }
-
+//rxrdcyrd
         //al sobreescribir el metodo de la clase superior no hace falta llamar a este en el constructor
     @Override
     public void pedirDatos() {
