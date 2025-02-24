@@ -6,7 +6,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.io.FileReader;
-
+//dtdtydgrfg
 public class Empresa {
     private static ArrayList<Empleados> LEmpleados = new ArrayList<>();
 
