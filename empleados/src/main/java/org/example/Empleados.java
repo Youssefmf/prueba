@@ -1,6 +1,6 @@
 package org.example;
 
-
+//amammamamae
 import java.util.Scanner;
 
 public class Empleados {

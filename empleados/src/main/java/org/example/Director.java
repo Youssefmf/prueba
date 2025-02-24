@@ -3,7 +3,7 @@ package org.example;
 public class Director extends Empleados {
     private int numDespacho;
     private double plusSalario = 400.0;
-
+//aoaoaoa
      Director() {
         super();
     }
